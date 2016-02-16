@@ -1,0 +1,61 @@
+# FILE SYSTEMS FILES
+*.db
+.DS_Store
+._*
+*~
+/**/._*
+.fuse*
+
+# LOG FILES
+*.log
+
+# APACHE CONFIGURATION FILES
+/.htaccess
+/.htpasswd
+
+# WORDPRESS CONFIGURATION FILES
+/wp-config.php
+/wp-config-sample.php
+
+# WORDPRESS DEFAULT FILES
+/licence.txt
+/readme.html
+
+# UPGRADE TEMP FILES
+/wp-content/upgrade/
+/app/upgrade/
+
+# UPLOADS AND MEDIA
+/wp-content/uploads
+/app/uploads
+/uploads
+/wp-content/media
+/app/media
+/media
+
+# CACHE FILES
+/wp-content/cache
+/wp-content/cache/supercache
+/wp-content/uploads/minqueue-cache
+/wp-content/advanced-cache.php
+/wp-content/wp-cache-config.php
+/app/cache
+/app/cache/supercache
+/app/uploads/minqueue-cache
+/app/advanced-cache.php
+/app/wp-cache-config.php
+
+# EDITORS / IDE FILES
+nbproject/*
+.settings/*
+.buildpath
+.project
+
+# PHING CONFIGURATION FILES
+/my.build.properties
+
+# NODES MODULES
+node_modules
+
+# SVN FILES
+*.svn
