@@ -16,6 +16,7 @@
 # WORDPRESS CONFIGURATION FILES
 /wp-config.php
 /wp-config-sample.php
+/wp-config/wp-config-database.php
 
 # WORDPRESS DEFAULT FILES
 /licence.txt
