@@ -19,7 +19,7 @@
 /wp-config/wp-config-database.php
 
 # WORDPRESS DEFAULT FILES
-/licence.txt
+/license.txt
 /readme.html
 
 # UPGRADE TEMP FILES
